@@ -1,0 +1,18 @@
+#vihrea{
+  background-color: green;
+  width: 150px;
+  height: 150px;
+  position: absolute;
+  left: 500px;
+  top: 250px; 
+  opacity:50%;
+}
+#punainen{
+  background-color: red;
+  width: 150px;
+  height: 150px;
+  position: absolute;
+  left: 500px;
+  top: 250px; 
+  opacity:50%;
+}
