@@ -14,3 +14,4 @@ async function myFunction5() {
           }
       }
         }
+myFunction5();
